@@ -1,0 +1,13 @@
+/.kdev*/
+*.kdev4
+/LICENSES/
+*.pyc
+indra/llwindow/glh/
+indra/newview/vivox-runtime/
+indra/viewer-linux-*/
+/installed.xml
+/libraries/
+*.rej
+*.orig
+*~
+*.patch
