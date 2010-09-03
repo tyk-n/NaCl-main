@@ -11,3 +11,4 @@ indra/viewer-linux-*/
 *.orig
 *~
 *.patch
+indra/build
