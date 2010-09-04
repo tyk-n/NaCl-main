@@ -459,6 +459,7 @@ public:
 	static BOOL             sAllowRebuildPriorityGroup;
 	static S32				sVisibleLightCount;
 	static F32				sMinRenderSize;
+	static F32				sVolumeSAFrame;
 
 	//screen texture
 	U32 					mScreenWidth;
